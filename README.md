@@ -1,4 +1,4 @@
-# HVG-Website
+# HGV-Website
 Website made using Flask and Basic Html and CSS. Created by Zoya Saiyed with some help by Zach Schultz
 
 ## Feature
