@@ -11,4 +11,6 @@ Website made using Flask and Basic Html and CSS. Created by Zoya Saiyed with som
 - I Personally Would like to Update Use JavaScript and not just Base HTML and CSS
 - Added more ability that connect the Arduino the System Better
 - Be able to show different user different Arduino Data (Like a login or Password)
+
+#### Flow Chart
 ![image](https://github.com/user-attachments/assets/6ecc51c4-34ed-4e00-a80b-c08793b00af8)
